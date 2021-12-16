@@ -1,0 +1,19 @@
+h1 {
+    font-size: 100px;
+font-style: italic;
+display: flex; justify-content: center;
+}
+.box1 {
+    width: 400px;
+    height: 400px;
+    color: aquamarine;
+}
+header {
+    border: solid 300px black;
+    margin-block-end: 100px;
+
+#random {
+display: felx;
+font-size: 300px;
+}
+
